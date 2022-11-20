@@ -9,14 +9,40 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@near-wallet-selector/coin98-wallet": "^7.2.0",
+    "@near-wallet-selector/core": "^7.2.0",
+    "@near-wallet-selector/default-wallets": "^7.2.0",
+    "@near-wallet-selector/here-wallet": "^7.2.0",
+    "@near-wallet-selector/ledger": "^7.2.0",
+    "@near-wallet-selector/math-wallet": "^7.2.0",
+    "@near-wallet-selector/meteor-wallet": "^7.2.0",
+    "@near-wallet-selector/modal-ui": "^7.2.0",
+    "@near-wallet-selector/my-near-wallet": "^7.2.0",
+    "@near-wallet-selector/near-wallet": "^7.2.0",
+    "@near-wallet-selector/nearfi": "^7.2.0",
+    "@near-wallet-selector/neth": "^7.2.0",
+    "@near-wallet-selector/nightly": "^7.2.0",
+    "@near-wallet-selector/nightly-connect": "^7.2.0",
+    "@near-wallet-selector/opto-wallet": "^7.2.0",
+    "@near-wallet-selector/sender": "^7.2.0",
+    "@near-wallet-selector/wallet-connect": "^7.2.0",
+    "@near-wallet-selector/welldone-wallet": "^7.2.0",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.9",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.4",
+    "near-api-js": "^0.44.2",
     "next": "13.0.4",
+    "nft.storage": "^7.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "rxjs": "^7.5.7",
     "typescript": "4.9.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwindcss": "^3.2.4"
   }
 }
